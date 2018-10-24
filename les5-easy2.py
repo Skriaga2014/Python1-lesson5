@@ -12,3 +12,6 @@ print([i for i in os.listdir(os.getcwd()) if os.path.isdir(os.path.join(os.getcw
 #    element_path = os.path.join(os.getcwd(), i)         # Абсолютный путь к элементу
 #    if os.path.isdir(element_path):                     # Если элемент с таким путем является папкой:
 #        print(i)                                        # тогда выводим этотэлемент на экран
+
+
+#
