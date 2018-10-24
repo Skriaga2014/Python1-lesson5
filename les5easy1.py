@@ -52,3 +52,5 @@ if __name__ == "__main__":
     for i in range(1, 10): create("dir_" + str(i))
     input("Нажмите Ввод для продолжения...")
     for i in range(1, 10): delete("dir_" + str(i))
+
+#
